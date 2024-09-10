@@ -1,0 +1,56 @@
+{
+  "topic": "Geometry (Grade 8)",
+  "content": "Geometry is the study of shapes, their properties, and their relationships in space. It involves concepts like points, lines, angles, triangles, quadrilaterals, circles, and 3D shapes. You'll learn how to calculate areas, perimeters, volumes, and angles of different shapes.",
+  "questions": [
+      {
+          "question": "What is the sum of the interior angles of a triangle?",
+          "options": ["90 degrees", "180 degrees", "360 degrees", "It depends on the triangle"],
+          "correct_answer": "180 degrees"
+      },
+      {
+          "question": "A rectangle has a length of 12 cm and a width of 5 cm. What is its area?",
+          "options": ["17 cm²", "34 cm²", "60 cm²", "120 cm²"],
+          "correct_answer": "60 cm²"
+      },
+      {
+          "question": "If the circumference of a circle is 10π, what is its radius?",
+          "options": ["2", "5", "10", "20"],
+          "correct_answer": "5"
+      },
+      {
+          "question": "What is the name of a quadrilateral with four equal sides and four right angles?",
+          "options": ["Rectangle", "Rhombus", "Square", "Trapezoid"],
+          "correct_answer": "Square"
+      },
+      {
+          "question": "Two angles are complementary if their sum is 90 degrees. If one angle is 35 degrees, what is the measure of its complement?",
+          "options": ["45 degrees", "55 degrees", "65 degrees", "145 degrees"],
+          "correct_answer": "55 degrees"
+      },
+      {
+          "question": "A cube has an edge length of 4 inches. What is its volume?",
+          "options": ["12 cubic inches", "16 cubic inches", "48 cubic inches", "64 cubic inches"],
+          "correct_answer": "64 cubic inches"
+      },
+      {
+          "question": "The Pythagorean theorem states: a² + b² = c². In a right triangle, if a = 3 and b = 4, what is the value of c (the hypotenuse)?",
+          "options": ["5", "7", "25", "49"],
+          "correct_answer": "5"
+      },
+      {
+          "question": "What is the area of a triangle with a base of 8 cm and a height of 6 cm?",
+          "options": ["14 cm²", "24 cm²", "32 cm²", "48 cm²"],
+          "correct_answer": "24 cm²"
+      },
+      {
+          "question": "If two lines are parallel, and a transversal intersects them, what is the relationship between the alternate interior angles?",
+          "options": ["They are congruent.", "They are supplementary.", "They are complementary.", "They are vertical angles."],
+          "correct_answer": "They are congruent."
+      },
+      {
+          "question": "A cylinder has a radius of 3 cm and a height of 10 cm. What is its volume? (Use π = 3.14)",
+          "options": ["28.26 cm³", "94.2 cm³", "188.4 cm³", "282.6 cm³"],
+          "correct_answer": "282.6 cm³"
+      }
+  ]
+}

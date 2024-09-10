@@ -1,0 +1,56 @@
+{
+  "topic": "Statistics (Grade 10)",
+  "content": "Statistics is the study of collecting, organizing, analyzing, interpreting, and presenting data. You'll learn about different ways to represent data (like graphs and charts), measures of central tendency (mean, median, mode), and measures of spread (range, variance, standard deviation). Statistics helps us make sense of the world around us and draw conclusions from data.",
+  "questions": [
+      {
+          "question": "What is the most common measure of central tendency?",
+          "options": ["Mean", "Median", "Mode", "Range"],
+          "correct_answer": "Mean"
+      },
+      {
+          "question": "Which measure of central tendency is best for data with outliers?",
+          "options": ["Mean", "Median", "Mode", "Range"],
+          "correct_answer": "Median"
+      },
+      {
+          "question": "The data set {2, 4, 4, 5, 7, 9} has a mode of:",
+          "options": ["2", "4", "5", "7"],
+          "correct_answer": "4"
+      },
+      {
+          "question": "What is the range of the data set {1, 3, 5, 7, 9}?",
+          "options": ["4", "5", "8", "9"],
+          "correct_answer": "8"
+      },
+      {
+          "question": "Which measure of spread tells us how much the data varies from the mean?",
+          "options": ["Range", "Variance", "Standard Deviation", "Median"],
+          "correct_answer": "Standard Deviation"
+      },
+      {
+          "question": "A bar graph is best used to represent:",
+          "options": ["Continuous data", "Categorical data", "Changes over time", "Relationships between two variables"],
+          "correct_answer": "Categorical data"
+      },
+      {
+          "question": "A pie chart is useful for showing:",
+          "options": ["Proportions of a whole", "Trends over time", "Frequency distributions", "Relationships between variables"],
+          "correct_answer": "Proportions of a whole"
+      },
+      {
+          "question": "If a data set is skewed to the right, the mean will be:",
+          "options": ["Greater than the median", "Less than the median", "Equal to the median", "Cannot be determined"],
+          "correct_answer": "Greater than the median"
+      },
+      {
+          "question": "What is the purpose of sampling in statistics?",
+          "options": ["To collect data from the entire population", "To make inferences about a population based on a smaller group", "To ensure everyone in the population is represented", "To avoid bias in data collection"],
+          "correct_answer": "To make inferences about a population based on a smaller group"
+      },
+      {
+          "question": "Which of the following is NOT a measure of spread?",
+          "options": ["Range", "Variance", "Standard Deviation", "Mean"],
+          "correct_answer": "Mean"
+      }
+  ]
+}
