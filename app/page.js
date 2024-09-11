@@ -86,7 +86,7 @@ export default function Home() {
     <ThemeProvider theme={theme}>
       <Container maxWidth="sm">
       <Header/>
-        <Box sx={{ my: 4 }}>
+        <Box sx={{ my: 10 }}>
           <Typography variant="h4" component="h1" gutterBottom>
             AI Math Teacher
           </Typography>
